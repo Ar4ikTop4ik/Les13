@@ -3,3 +3,4 @@ git branch _..._ - создаст ветку, но вы останетесь н�
 git checkout 'name' - перейти на ветку
 git push origin --delete 'name' - удаление облачной ветки
 git push origin -u 'name' - создание облачной ветки
+git branch -a - вывод веток
