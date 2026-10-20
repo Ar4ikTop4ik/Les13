@@ -1,5 +1,5 @@
 Локальная ветка - git branch 'name'
 git branch _..._ - создаст ветку, но вы останетесь на своей текущей ветке.
 git checkout 'name' - перейти на ветку
-git push origin --delete 'name' - удаление ветки
-git push origin -u 'name' - создание ветки
+git push origin --delete 'name' - удаление облачной ветки
+git push origin -u 'name' - создание облачной ветки
